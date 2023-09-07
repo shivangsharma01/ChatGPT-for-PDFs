@@ -5,6 +5,8 @@
 
 Welcome to the "ChatGPT for PDFs" project! This project aims to provide a streamlined and efficient way to extract, process, and interact with text content within PDF documents using OpenAI's ChatGPT model. With this tool, you can easily leverage the power of natural language processing to analyze, summarize, or extract information from PDF files.
 
+![GIF Title](pdf-page-flip-animation.gif)
+
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
