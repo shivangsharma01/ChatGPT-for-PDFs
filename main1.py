@@ -1,5 +1,5 @@
 import os
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = "YOUR_API_KEY"
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 
 if __name__ == "__main__":
-    print("HI")
+    print("Hi! Welcome to ChatGPT for PDFs, Just Put your file's location and type away!")
     pdf_path = "/Users/shivangsharma/vectorstore-in-memory/Secure Storage and Load Management in Fog Computing.pdf"
     loader = PyPDFLoader(file_path=pdf_path)
     documents = loader.load()
