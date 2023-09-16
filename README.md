@@ -5,7 +5,7 @@
 
 Welcome to the "ChatGPT for PDFs" project! This project aims to provide a streamlined and efficient way to extract, process, and interact with text content within PDF documents using OpenAI's ChatGPT model. With this tool, you can easily leverage the power of natural language processing to analyze, summarize, or extract information from PDF files.
 
-![photo](adobe-pdf3324.jpg)
+![photo](pdf-page-flip-animation.gif)
 
 ## Table of Contents
 
@@ -74,8 +74,6 @@ You can use ChatGPT to search for specific keywords or phrases within the PDF do
 We welcome contributions from the community. If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as long as you adhere to the terms specified in the license.
 
 ---
 
